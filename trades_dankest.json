@@ -1,0 +1,3638 @@
+[
+  {
+    "paswordistaco22": {
+      "additions": [
+        {
+          "id": "",
+          "round": 2,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "11569",
+          "name": "Jarquez Hunter"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "8205",
+          "name": "Isiah Pacheco"
+        }
+      ]
+    },
+    "ZFox3": {
+      "additions": [
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "8205",
+          "name": "Isiah Pacheco"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 2,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "11569",
+          "name": "Jarquez Hunter"
+        }
+      ]
+    }
+  },
+  {
+    "Naj08": {
+      "additions": [
+        {
+          "id": "",
+          "round": 4,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "4981",
+          "name": "Calvin Ridley"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "10235",
+          "name": "Roschon Johnson"
+        },
+        {
+          "id": "6790",
+          "name": "D'Andre Swift"
+        }
+      ]
+    },
+    "avitzhaki": {
+      "additions": [
+        {
+          "id": "10235",
+          "name": "Roschon Johnson"
+        },
+        {
+          "id": "6790",
+          "name": "D'Andre Swift"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 4,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "4981",
+          "name": "Calvin Ridley"
+        }
+      ]
+    }
+  },
+  {
+    "LilDaveIII": {
+      "additions": [
+        {
+          "id": "6768",
+          "name": "Tua Tagovailoa"
+        },
+        {
+          "id": "9226",
+          "name": "De'Von Achane"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "11583",
+          "name": "Jonathon Brooks"
+        },
+        {
+          "id": "9228",
+          "name": "Bryce Young"
+        }
+      ]
+    },
+    "dsalem": {
+      "additions": [
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "11583",
+          "name": "Jonathon Brooks"
+        },
+        {
+          "id": "9228",
+          "name": "Bryce Young"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "6768",
+          "name": "Tua Tagovailoa"
+        },
+        {
+          "id": "9226",
+          "name": "De'Von Achane"
+        }
+      ]
+    }
+  },
+  {
+    "TheCoin33": {
+      "additions": [
+        {
+          "id": "8126",
+          "name": "Wan'Dale Robinson"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "8136",
+          "name": "Rachaad White"
+        }
+      ]
+    },
+    "avitzhaki": {
+      "additions": [
+        {
+          "id": "8136",
+          "name": "Rachaad White"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "8126",
+          "name": "Wan'Dale Robinson"
+        }
+      ]
+    }
+  },
+  {
+    "amilipner": {
+      "additions": [
+        {
+          "id": "",
+          "round": 2,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "4866",
+          "name": "Saquon Barkley"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "4199",
+          "name": "Aaron Jones"
+        },
+        {
+          "id": "8146",
+          "name": "Garrett Wilson"
+        },
+        {
+          "id": "9224",
+          "name": "Chase Brown"
+        }
+      ]
+    },
+    "avitzhaki": {
+      "additions": [
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "4199",
+          "name": "Aaron Jones"
+        },
+        {
+          "id": "8146",
+          "name": "Garrett Wilson"
+        },
+        {
+          "id": "9224",
+          "name": "Chase Brown"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 2,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "4866",
+          "name": "Saquon Barkley"
+        }
+      ]
+    }
+  },
+  {
+    "TheCoin33": {
+      "additions": [
+        {
+          "id": "5045",
+          "name": "Courtland Sutton"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "4018",
+          "name": "Joe Mixon"
+        }
+      ]
+    },
+    "ZFox3": {
+      "additions": [
+        {
+          "id": "4018",
+          "name": "Joe Mixon"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "5045",
+          "name": "Courtland Sutton"
+        }
+      ]
+    }
+  },
+  {
+    "LilDaveIII": {
+      "additions": [
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "",
+          "round": 4,
+          "slot": "",
+          "season": "2028"
+        },
+        {
+          "id": "5848",
+          "name": "Marquise Brown"
+        },
+        {
+          "id": "8111",
+          "name": "Cade Otton"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "",
+          "round": 2,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2028"
+        }
+      ]
+    },
+    "ZFox3": {
+      "additions": [
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "",
+          "round": 2,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2028"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "",
+          "round": 4,
+          "slot": "",
+          "season": "2028"
+        },
+        {
+          "id": "5848",
+          "name": "Marquise Brown"
+        },
+        {
+          "id": "8111",
+          "name": "Cade Otton"
+        }
+      ]
+    }
+  },
+  {
+    "amilipner": {
+      "additions": [
+        {
+          "id": "12498",
+          "name": "Mason Taylor",
+          "round": 3,
+          "slot": "8",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 4,
+          "slot": "",
+          "season": "2026"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "12469",
+          "name": "Dylan Sampson",
+          "round": 4,
+          "slot": "1",
+          "season": "2025"
+        }
+      ]
+    },
+    "DavidtherockJohnson": {
+      "additions": [
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "12469",
+          "name": "Dylan Sampson",
+          "round": 4,
+          "slot": "1",
+          "season": "2025"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12498",
+          "name": "Mason Taylor",
+          "round": 3,
+          "slot": "8",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 4,
+          "slot": "",
+          "season": "2026"
+        }
+      ]
+    }
+  },
+  {
+    "avitzhaki": {
+      "additions": [
+        {
+          "id": "12524",
+          "name": "Shedeur Sanders",
+          "round": 3,
+          "slot": "5",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 4,
+          "slot": "",
+          "season": "2026"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12505",
+          "name": "Jalen Royals",
+          "round": 3,
+          "slot": "9",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2027"
+        }
+      ]
+    },
+    "ZFox3": {
+      "additions": [
+        {
+          "id": "12505",
+          "name": "Jalen Royals",
+          "round": 3,
+          "slot": "9",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2027"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12524",
+          "name": "Shedeur Sanders",
+          "round": 3,
+          "slot": "5",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 4,
+          "slot": "",
+          "season": "2026"
+        }
+      ]
+    }
+  },
+  {
+    "paswordistaco22": {
+      "additions": [
+        {
+          "id": "12457",
+          "name": "Jaydon Blue",
+          "round": 3,
+          "slot": "3",
+          "season": "2025"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "12476",
+          "name": "Devin Neal",
+          "round": 4,
+          "slot": "7",
+          "season": "2025"
+        }
+      ]
+    },
+    "dsalem": {
+      "additions": [
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "12476",
+          "name": "Devin Neal",
+          "round": 4,
+          "slot": "7",
+          "season": "2025"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12457",
+          "name": "Jaydon Blue",
+          "round": 3,
+          "slot": "3",
+          "season": "2025"
+        }
+      ]
+    }
+  },
+  {
+    "amilipner": {
+      "additions": [
+        {
+          "id": "12545",
+          "name": "Tyler Shough",
+          "round": 3,
+          "slot": "6",
+          "season": "2025"
+        },
+        {
+          "id": "12504",
+          "name": "Kaleb Johnson",
+          "round": 2,
+          "slot": "1",
+          "season": "2025"
+        },
+        {
+          "id": "12469",
+          "name": "Dylan Sampson",
+          "round": 4,
+          "slot": "1",
+          "season": "2025"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12531",
+          "name": "Trevor Etienne",
+          "round": 4,
+          "slot": "8",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2027"
+        }
+      ]
+    },
+    "DavidtherockJohnson": {
+      "additions": [
+        {
+          "id": "12531",
+          "name": "Trevor Etienne",
+          "round": 4,
+          "slot": "8",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2027"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12545",
+          "name": "Tyler Shough",
+          "round": 3,
+          "slot": "6",
+          "season": "2025"
+        },
+        {
+          "id": "12504",
+          "name": "Kaleb Johnson",
+          "round": 2,
+          "slot": "1",
+          "season": "2025"
+        },
+        {
+          "id": "12469",
+          "name": "Dylan Sampson",
+          "round": 4,
+          "slot": "1",
+          "season": "2025"
+        }
+      ]
+    }
+  },
+  {
+    "Naj08": {
+      "additions": [
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "12522",
+          "name": "Cam Ward",
+          "round": 1,
+          "slot": "4",
+          "season": "2025"
+        },
+        {
+          "id": "12536",
+          "name": "Jaylin Noel",
+          "round": 3,
+          "slot": "4",
+          "season": "2025"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12514",
+          "name": "Emeka Egbuka",
+          "round": 1,
+          "slot": "10",
+          "season": "2025"
+        },
+        {
+          "id": "5927",
+          "name": "Terry McLaurin"
+        }
+      ]
+    },
+    "avitzhaki": {
+      "additions": [
+        {
+          "id": "12514",
+          "name": "Emeka Egbuka",
+          "round": 1,
+          "slot": "10",
+          "season": "2025"
+        },
+        {
+          "id": "5927",
+          "name": "Terry McLaurin"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "12522",
+          "name": "Cam Ward",
+          "round": 1,
+          "slot": "4",
+          "season": "2025"
+        },
+        {
+          "id": "12536",
+          "name": "Jaylin Noel",
+          "round": 3,
+          "slot": "4",
+          "season": "2025"
+        }
+      ]
+    }
+  },
+  {
+    "avitzhaki": {
+      "additions": [
+        {
+          "id": "12507",
+          "name": "Omarion Hampton",
+          "round": 1,
+          "slot": "2",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 4,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "6806",
+          "name": "J.K. Dobbins"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "",
+          "round": 2,
+          "slot": "",
+          "season": "2027"
+        }
+      ]
+    },
+    "dsalem": {
+      "additions": [
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "",
+          "round": 2,
+          "slot": "",
+          "season": "2027"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12507",
+          "name": "Omarion Hampton",
+          "round": 1,
+          "slot": "2",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 4,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "6806",
+          "name": "J.K. Dobbins"
+        }
+      ]
+    }
+  },
+  {
+    "paswordistaco22": {
+      "additions": [
+        {
+          "id": "11624",
+          "name": "Xavier Worthy"
+        },
+        {
+          "id": "8130",
+          "name": "Trey McBride"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "5012",
+          "name": "Mark Andrews"
+        },
+        {
+          "id": "8131",
+          "name": "Isaiah Likely"
+        },
+        {
+          "id": "8150",
+          "name": "Kyren Williams"
+        },
+        {
+          "id": "8154",
+          "name": "Brian Robinson"
+        }
+      ]
+    },
+    "TheCoin33": {
+      "additions": [
+        {
+          "id": "5012",
+          "name": "Mark Andrews"
+        },
+        {
+          "id": "8131",
+          "name": "Isaiah Likely"
+        },
+        {
+          "id": "8150",
+          "name": "Kyren Williams"
+        },
+        {
+          "id": "8154",
+          "name": "Brian Robinson"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11624",
+          "name": "Xavier Worthy"
+        },
+        {
+          "id": "8130",
+          "name": "Trey McBride"
+        }
+      ]
+    }
+  },
+  {
+    "TheCoin33": {
+      "additions": [
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "6801",
+          "name": "Tee Higgins"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 2,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "10222",
+          "name": "Jayden Reed"
+        }
+      ]
+    },
+    "dsalem": {
+      "additions": [
+        {
+          "id": "",
+          "round": 2,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "10222",
+          "name": "Jayden Reed"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "6801",
+          "name": "Tee Higgins"
+        }
+      ]
+    }
+  },
+  {
+    "paswordistaco22": {
+      "additions": [
+        {
+          "id": "12509",
+          "name": "Tre' Harris",
+          "round": 2,
+          "slot": "7",
+          "season": "2025"
+        },
+        {
+          "id": "12527",
+          "name": "Ashton Jeanty",
+          "round": 1,
+          "slot": "1",
+          "season": "2025"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "11638",
+          "name": "Ricky Pearsall"
+        }
+      ]
+    },
+    "DavidtherockJohnson": {
+      "additions": [
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "11638",
+          "name": "Ricky Pearsall"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12509",
+          "name": "Tre' Harris",
+          "round": 2,
+          "slot": "7",
+          "season": "2025"
+        },
+        {
+          "id": "12527",
+          "name": "Ashton Jeanty",
+          "round": 1,
+          "slot": "1",
+          "season": "2025"
+        }
+      ]
+    }
+  },
+  {
+    "LilDaveIII": {
+      "additions": [
+        {
+          "id": "10229",
+          "name": "Rashee Rice"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "11638",
+          "name": "Ricky Pearsall"
+        }
+      ]
+    },
+    "paswordistaco22": {
+      "additions": [
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "11638",
+          "name": "Ricky Pearsall"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "10229",
+          "name": "Rashee Rice"
+        }
+      ]
+    }
+  },
+  {
+    "dmxn87": {
+      "additions": [
+        {
+          "id": "11559",
+          "name": "Michael Penix"
+        },
+        {
+          "id": "1373",
+          "name": "Geno Smith"
+        },
+        {
+          "id": "5846",
+          "name": "DK Metcalf"
+        },
+        {
+          "id": "8155",
+          "name": "Breece Hall"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12519",
+          "name": "Luther Burden",
+          "round": 2,
+          "slot": "8",
+          "season": "2025"
+        },
+        {
+          "id": "12531",
+          "name": "Trevor Etienne",
+          "round": 4,
+          "slot": "8",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 4,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "4137",
+          "name": "James Conner"
+        },
+        {
+          "id": "5947",
+          "name": "Jakobi Meyers"
+        },
+        {
+          "id": "6904",
+          "name": "Jalen Hurts"
+        }
+      ]
+    },
+    "amilipner": {
+      "additions": [
+        {
+          "id": "12519",
+          "name": "Luther Burden",
+          "round": 2,
+          "slot": "8",
+          "season": "2025"
+        },
+        {
+          "id": "12531",
+          "name": "Trevor Etienne",
+          "round": 4,
+          "slot": "8",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 4,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "4137",
+          "name": "James Conner"
+        },
+        {
+          "id": "5947",
+          "name": "Jakobi Meyers"
+        },
+        {
+          "id": "6904",
+          "name": "Jalen Hurts"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11559",
+          "name": "Michael Penix"
+        },
+        {
+          "id": "1373",
+          "name": "Geno Smith"
+        },
+        {
+          "id": "5846",
+          "name": "DK Metcalf"
+        },
+        {
+          "id": "8155",
+          "name": "Breece Hall"
+        }
+      ]
+    }
+  },
+  {
+    "paswordistaco22": {
+      "additions": [
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2026"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 2,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "",
+          "round": 4,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "5892",
+          "name": "David Montgomery"
+        }
+      ]
+    },
+    "TheCoin33": {
+      "additions": [
+        {
+          "id": "",
+          "round": 2,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "",
+          "round": 4,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "5892",
+          "name": "David Montgomery"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2026"
+        }
+      ]
+    }
+  },
+  {
+    "Naj08": {
+      "additions": [
+        {
+          "id": "7525",
+          "name": "DeVonta Smith"
+        },
+        {
+          "id": "8151",
+          "name": "Kenneth Walker"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12490",
+          "name": "Bhayshul Tuten",
+          "round": 2,
+          "slot": "10",
+          "season": "2025"
+        },
+        {
+          "id": "7523",
+          "name": "Trevor Lawrence"
+        }
+      ]
+    },
+    "ZFox3": {
+      "additions": [
+        {
+          "id": "12490",
+          "name": "Bhayshul Tuten",
+          "round": 2,
+          "slot": "10",
+          "season": "2025"
+        },
+        {
+          "id": "7523",
+          "name": "Trevor Lawrence"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "7525",
+          "name": "DeVonta Smith"
+        },
+        {
+          "id": "8151",
+          "name": "Kenneth Walker"
+        }
+      ]
+    }
+  },
+  {
+    "dmxn87": {
+      "additions": [
+        {
+          "id": "",
+          "round": 2,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "11559",
+          "name": "Michael Penix"
+        },
+        {
+          "id": "1373",
+          "name": "Geno Smith"
+        },
+        {
+          "id": "5846",
+          "name": "DK Metcalf"
+        },
+        {
+          "id": "8155",
+          "name": "Breece Hall"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12484",
+          "name": "Jayden Higgins",
+          "round": 2,
+          "slot": "6",
+          "season": "2025"
+        },
+        {
+          "id": "12508",
+          "name": "Jaxson Dart",
+          "round": 1,
+          "slot": "8",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "6904",
+          "name": "Jalen Hurts"
+        }
+      ]
+    },
+    "amilipner": {
+      "additions": [
+        {
+          "id": "12484",
+          "name": "Jayden Higgins",
+          "round": 2,
+          "slot": "6",
+          "season": "2025"
+        },
+        {
+          "id": "12508",
+          "name": "Jaxson Dart",
+          "round": 1,
+          "slot": "8",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "6904",
+          "name": "Jalen Hurts"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 2,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "11559",
+          "name": "Michael Penix"
+        },
+        {
+          "id": "1373",
+          "name": "Geno Smith"
+        },
+        {
+          "id": "5846",
+          "name": "DK Metcalf"
+        },
+        {
+          "id": "8155",
+          "name": "Breece Hall"
+        }
+      ]
+    }
+  },
+  {
+    "dmxn87": {
+      "additions": [
+        {
+          "id": "12527",
+          "name": "Ashton Jeanty",
+          "round": 1,
+          "slot": "1",
+          "season": "2025"
+        },
+        {
+          "id": "12504",
+          "name": "Kaleb Johnson",
+          "round": 2,
+          "slot": "1",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2027"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "12512",
+          "name": "Quinshon Judkins",
+          "round": 1,
+          "slot": "3",
+          "season": "2025"
+        },
+        {
+          "id": "11625",
+          "name": "Adonai Mitchell"
+        },
+        {
+          "id": "7543",
+          "name": "Travis Etienne"
+        },
+        {
+          "id": "9229",
+          "name": "Anthony Richardson"
+        }
+      ]
+    },
+    "DavidtherockJohnson": {
+      "additions": [
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "12512",
+          "name": "Quinshon Judkins",
+          "round": 1,
+          "slot": "3",
+          "season": "2025"
+        },
+        {
+          "id": "11625",
+          "name": "Adonai Mitchell"
+        },
+        {
+          "id": "7543",
+          "name": "Travis Etienne"
+        },
+        {
+          "id": "9229",
+          "name": "Anthony Richardson"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12527",
+          "name": "Ashton Jeanty",
+          "round": 1,
+          "slot": "1",
+          "season": "2025"
+        },
+        {
+          "id": "12504",
+          "name": "Kaleb Johnson",
+          "round": 2,
+          "slot": "1",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2027"
+        }
+      ]
+    }
+  },
+  {
+    "amilipner": {
+      "additions": [
+        {
+          "id": "12501",
+          "name": "Matthew Golden",
+          "round": 2,
+          "slot": "2",
+          "season": "2025"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12457",
+          "name": "Jaydon Blue",
+          "round": 3,
+          "slot": "3",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "1234",
+          "name": "Russell Wilson"
+        }
+      ]
+    },
+    "dsalem": {
+      "additions": [
+        {
+          "id": "12457",
+          "name": "Jaydon Blue",
+          "round": 3,
+          "slot": "3",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "1234",
+          "name": "Russell Wilson"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12501",
+          "name": "Matthew Golden",
+          "round": 2,
+          "slot": "2",
+          "season": "2025"
+        }
+      ]
+    }
+  },
+  {
+    "LilDaveIII": {
+      "additions": [
+        {
+          "id": "7594",
+          "name": "Chuba Hubbard"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12495",
+          "name": "Ollie Gordon",
+          "round": 4,
+          "slot": "6",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 4,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "9225",
+          "name": "Tank Bigsby"
+        }
+      ]
+    },
+    "dmxn87": {
+      "additions": [
+        {
+          "id": "12495",
+          "name": "Ollie Gordon",
+          "round": 4,
+          "slot": "6",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 4,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "9225",
+          "name": "Tank Bigsby"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "7594",
+          "name": "Chuba Hubbard"
+        }
+      ]
+    }
+  },
+  {
+    "paswordistaco22": {
+      "additions": [
+        {
+          "id": "8110",
+          "name": "Jake Ferguson"
+        },
+        {
+          "id": "8154",
+          "name": "Brian Robinson"
+        },
+        {
+          "id": "9757",
+          "name": "Kendre Miller"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "4037",
+          "name": "Chris Godwin"
+        }
+      ]
+    },
+    "amilipner": {
+      "additions": [
+        {
+          "id": "4037",
+          "name": "Chris Godwin"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "8110",
+          "name": "Jake Ferguson"
+        },
+        {
+          "id": "8154",
+          "name": "Brian Robinson"
+        },
+        {
+          "id": "9757",
+          "name": "Kendre Miller"
+        }
+      ]
+    }
+  },
+  {
+    "LilDaveIII": {
+      "additions": [
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "6786",
+          "name": "CeeDee Lamb"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "12489",
+          "name": "RJ Harvey",
+          "round": 1,
+          "slot": "9",
+          "season": "2025"
+        },
+        {
+          "id": "12517",
+          "name": "Colston Loveland",
+          "round": 2,
+          "slot": "4",
+          "season": "2025"
+        },
+        {
+          "id": "4066",
+          "name": "Evan Engram"
+        },
+        {
+          "id": "8155",
+          "name": "Breece Hall"
+        }
+      ]
+    },
+    "amilipner": {
+      "additions": [
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "12489",
+          "name": "RJ Harvey",
+          "round": 1,
+          "slot": "9",
+          "season": "2025"
+        },
+        {
+          "id": "12517",
+          "name": "Colston Loveland",
+          "round": 2,
+          "slot": "4",
+          "season": "2025"
+        },
+        {
+          "id": "4066",
+          "name": "Evan Engram"
+        },
+        {
+          "id": "8155",
+          "name": "Breece Hall"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 1,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "6786",
+          "name": "CeeDee Lamb"
+        }
+      ]
+    }
+  },
+  {
+    "paswordistaco22": {
+      "additions": [
+        {
+          "id": "4037",
+          "name": "Chris Godwin"
+        },
+        {
+          "id": "8150",
+          "name": "Kyren Williams"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12529",
+          "name": "TreVeyon Henderson",
+          "round": 1,
+          "slot": "7",
+          "season": "2025"
+        },
+        {
+          "id": "9756",
+          "name": "Jordan Addison"
+        }
+      ]
+    },
+    "ZFox3": {
+      "additions": [
+        {
+          "id": "12529",
+          "name": "TreVeyon Henderson",
+          "round": 1,
+          "slot": "7",
+          "season": "2025"
+        },
+        {
+          "id": "9756",
+          "name": "Jordan Addison"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "4037",
+          "name": "Chris Godwin"
+        },
+        {
+          "id": "8150",
+          "name": "Kyren Williams"
+        }
+      ]
+    }
+  },
+  {
+    "LilDaveIII": {
+      "additions": [
+        {
+          "id": "12517",
+          "name": "Colston Loveland",
+          "round": 2,
+          "slot": "4",
+          "season": "2025"
+        },
+        {
+          "id": "4035",
+          "name": "Alvin Kamara"
+        },
+        {
+          "id": "6794",
+          "name": "Justin Jefferson"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "11563",
+          "name": "Bo Nix"
+        },
+        {
+          "id": "11584",
+          "name": "Bucky Irving"
+        },
+        {
+          "id": "9488",
+          "name": "Jaxon Smith-Njigba"
+        }
+      ]
+    },
+    "avitzhaki": {
+      "additions": [
+        {
+          "id": "",
+          "round": 3,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "11563",
+          "name": "Bo Nix"
+        },
+        {
+          "id": "11584",
+          "name": "Bucky Irving"
+        },
+        {
+          "id": "9488",
+          "name": "Jaxon Smith-Njigba"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12517",
+          "name": "Colston Loveland",
+          "round": 2,
+          "slot": "4",
+          "season": "2025"
+        },
+        {
+          "id": "4035",
+          "name": "Alvin Kamara"
+        },
+        {
+          "id": "6794",
+          "name": "Justin Jefferson"
+        }
+      ]
+    }
+  },
+  {
+    "LilDaveIII": {
+      "additions": [
+        {
+          "id": "4066",
+          "name": "Evan Engram"
+        },
+        {
+          "id": "5967",
+          "name": "Tony Pollard"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12498",
+          "name": "Mason Taylor",
+          "round": 3,
+          "slot": "8",
+          "season": "2025"
+        },
+        {
+          "id": "12483",
+          "name": "Jack Bech",
+          "round": 2,
+          "slot": "9",
+          "season": "2025"
+        },
+        {
+          "id": "10223",
+          "name": "Eric Gray"
+        },
+        {
+          "id": "11579",
+          "name": "Audric Estime"
+        },
+        {
+          "id": "7571",
+          "name": "Rashod Bateman"
+        }
+      ]
+    },
+    "DavidtherockJohnson": {
+      "additions": [
+        {
+          "id": "12498",
+          "name": "Mason Taylor",
+          "round": 3,
+          "slot": "8",
+          "season": "2025"
+        },
+        {
+          "id": "12483",
+          "name": "Jack Bech",
+          "round": 2,
+          "slot": "9",
+          "season": "2025"
+        },
+        {
+          "id": "10223",
+          "name": "Eric Gray"
+        },
+        {
+          "id": "11579",
+          "name": "Audric Estime"
+        },
+        {
+          "id": "7571",
+          "name": "Rashod Bateman"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "4066",
+          "name": "Evan Engram"
+        },
+        {
+          "id": "5967",
+          "name": "Tony Pollard"
+        }
+      ]
+    }
+  },
+  {
+    "LilDaveIII": {
+      "additions": [
+        {
+          "id": "4018",
+          "name": "Joe Mixon"
+        },
+        {
+          "id": "8121",
+          "name": "Romeo Doubs"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "9502",
+          "name": "Tank Dell"
+        }
+      ]
+    },
+    "paswordistaco22": {
+      "additions": [
+        {
+          "id": "9502",
+          "name": "Tank Dell"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "4018",
+          "name": "Joe Mixon"
+        },
+        {
+          "id": "8121",
+          "name": "Romeo Doubs"
+        }
+      ]
+    }
+  },
+  {
+    "Naj08": {
+      "additions": [
+        {
+          "id": "11581",
+          "name": "MarShawn Lloyd"
+        },
+        {
+          "id": "5850",
+          "name": "Josh Jacobs"
+        },
+        {
+          "id": "7564",
+          "name": "Ja'Marr Chase"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "4988",
+          "name": "Nick Chubb"
+        },
+        {
+          "id": "8112",
+          "name": "Drake London"
+        },
+        {
+          "id": "8146",
+          "name": "Garrett Wilson"
+        }
+      ]
+    },
+    "amilipner": {
+      "additions": [
+        {
+          "id": "4988",
+          "name": "Nick Chubb"
+        },
+        {
+          "id": "8112",
+          "name": "Drake London"
+        },
+        {
+          "id": "8146",
+          "name": "Garrett Wilson"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11581",
+          "name": "MarShawn Lloyd"
+        },
+        {
+          "id": "5850",
+          "name": "Josh Jacobs"
+        },
+        {
+          "id": "7564",
+          "name": "Ja'Marr Chase"
+        }
+      ]
+    }
+  },
+  {
+    "Naj08": {
+      "additions": [
+        {
+          "id": "5927",
+          "name": "Terry McLaurin"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "6783",
+          "name": "Jerry Jeudy"
+        },
+        {
+          "id": "8230",
+          "name": "Ty Chandler"
+        }
+      ]
+    },
+    "DavidtherockJohnson": {
+      "additions": [
+        {
+          "id": "6783",
+          "name": "Jerry Jeudy"
+        },
+        {
+          "id": "8230",
+          "name": "Ty Chandler"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "5927",
+          "name": "Terry McLaurin"
+        }
+      ]
+    }
+  },
+  {
+    "amilipner": {
+      "additions": [
+        {
+          "id": "11626",
+          "name": "Xavier Legette"
+        },
+        {
+          "id": "6819",
+          "name": "Michael Pittman"
+        },
+        {
+          "id": "8132",
+          "name": "Tyler Allgeier"
+        },
+        {
+          "id": "9758",
+          "name": "C.J. Stroud"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12529",
+          "name": "TreVeyon Henderson",
+          "round": 1,
+          "slot": "7",
+          "season": "2025"
+        },
+        {
+          "id": "12509",
+          "name": "Tre' Harris",
+          "round": 2,
+          "slot": "7",
+          "season": "2025"
+        },
+        {
+          "id": "12487",
+          "name": "Terrance Ferguson",
+          "round": 3,
+          "slot": "7",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 2,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "",
+          "round": 2,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "1373",
+          "name": "Geno Smith"
+        },
+        {
+          "id": "7564",
+          "name": "Ja'Marr Chase"
+        }
+      ]
+    },
+    "DavidtherockJohnson": {
+      "additions": [
+        {
+          "id": "12529",
+          "name": "TreVeyon Henderson",
+          "round": 1,
+          "slot": "7",
+          "season": "2025"
+        },
+        {
+          "id": "12509",
+          "name": "Tre' Harris",
+          "round": 2,
+          "slot": "7",
+          "season": "2025"
+        },
+        {
+          "id": "12487",
+          "name": "Terrance Ferguson",
+          "round": 3,
+          "slot": "7",
+          "season": "2025"
+        },
+        {
+          "id": "",
+          "round": 2,
+          "slot": "",
+          "season": "2026"
+        },
+        {
+          "id": "",
+          "round": 2,
+          "slot": "",
+          "season": "2027"
+        },
+        {
+          "id": "1373",
+          "name": "Geno Smith"
+        },
+        {
+          "id": "7564",
+          "name": "Ja'Marr Chase"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11626",
+          "name": "Xavier Legette"
+        },
+        {
+          "id": "6819",
+          "name": "Michael Pittman"
+        },
+        {
+          "id": "8132",
+          "name": "Tyler Allgeier"
+        },
+        {
+          "id": "9758",
+          "name": "C.J. Stroud"
+        }
+      ]
+    }
+  },
+  {
+    "LilDaveIII": {
+      "additions": [
+        {
+          "id": "12498",
+          "name": "Mason Taylor",
+          "round": 3,
+          "slot": "8",
+          "season": "2025"
+        },
+        {
+          "id": "5849",
+          "name": "Kyler Murray"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12484",
+          "name": "Jayden Higgins",
+          "round": 2,
+          "slot": "6",
+          "season": "2025"
+        },
+        {
+          "id": "12512",
+          "name": "Quinshon Judkins",
+          "round": 1,
+          "slot": "3",
+          "season": "2025"
+        },
+        {
+          "id": "4892",
+          "name": "Baker Mayfield"
+        }
+      ]
+    },
+    "dmxn87": {
+      "additions": [
+        {
+          "id": "12484",
+          "name": "Jayden Higgins",
+          "round": 2,
+          "slot": "6",
+          "season": "2025"
+        },
+        {
+          "id": "12512",
+          "name": "Quinshon Judkins",
+          "round": 1,
+          "slot": "3",
+          "season": "2025"
+        },
+        {
+          "id": "4892",
+          "name": "Baker Mayfield"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12498",
+          "name": "Mason Taylor",
+          "round": 3,
+          "slot": "8",
+          "season": "2025"
+        },
+        {
+          "id": "5849",
+          "name": "Kyler Murray"
+        }
+      ]
+    }
+  },
+  {
+    "TheCoin33": {
+      "additions": [
+        {
+          "id": "12535",
+          "name": "Isaac TeSlaa",
+          "round": 4,
+          "slot": "4",
+          "season": "2025"
+        },
+        {
+          "id": "421",
+          "name": "Matthew Stafford"
+        },
+        {
+          "id": "8130",
+          "name": "Trey McBride"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12505",
+          "name": "Jalen Royals",
+          "round": 3,
+          "slot": "9",
+          "season": "2025"
+        },
+        {
+          "id": "4035",
+          "name": "Alvin Kamara"
+        },
+        {
+          "id": "9500",
+          "name": "Josh Downs"
+        }
+      ]
+    },
+    "avitzhaki": {
+      "additions": [
+        {
+          "id": "12505",
+          "name": "Jalen Royals",
+          "round": 3,
+          "slot": "9",
+          "season": "2025"
+        },
+        {
+          "id": "4035",
+          "name": "Alvin Kamara"
+        },
+        {
+          "id": "9500",
+          "name": "Josh Downs"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12535",
+          "name": "Isaac TeSlaa",
+          "round": 4,
+          "slot": "4",
+          "season": "2025"
+        },
+        {
+          "id": "421",
+          "name": "Matthew Stafford"
+        },
+        {
+          "id": "8130",
+          "name": "Trey McBride"
+        }
+      ]
+    }
+  },
+  {
+    "DavidtherockJohnson": {
+      "additions": [
+        {
+          "id": "5967",
+          "name": "Tony Pollard"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "9999",
+          "name": "Will Levis"
+        }
+      ]
+    },
+    "ZFox3": {
+      "additions": [
+        {
+          "id": "9999",
+          "name": "Will Levis"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "5967",
+          "name": "Tony Pollard"
+        }
+      ]
+    }
+  },
+  {
+    "LilDaveIII": {
+      "additions": [
+        {
+          "id": "4082",
+          "name": "Curtis Samuel"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11645",
+          "name": "Javon Baker",
+          "round": 4,
+          "slot": "5",
+          "season": "2024"
+        }
+      ]
+    },
+    "DavidtherockJohnson": {
+      "additions": [
+        {
+          "id": "11645",
+          "name": "Javon Baker",
+          "round": 4,
+          "slot": "5",
+          "season": "2024"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "4082",
+          "name": "Curtis Samuel"
+        }
+      ]
+    }
+  },
+  {
+    "Naj08": {
+      "additions": [
+        {
+          "id": "4039",
+          "name": "Cooper Kupp"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11596",
+          "name": "Ben Sinnott",
+          "round": 3,
+          "slot": "3",
+          "season": "2024"
+        }
+      ]
+    },
+    "DavidtherockJohnson": {
+      "additions": [
+        {
+          "id": "11596",
+          "name": "Ben Sinnott",
+          "round": 3,
+          "slot": "3",
+          "season": "2024"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "4039",
+          "name": "Cooper Kupp"
+        }
+      ]
+    }
+  },
+  {
+    "TheCoin33": {
+      "additions": [
+        {
+          "id": "11624",
+          "name": "Xavier Worthy",
+          "round": 2,
+          "slot": "1",
+          "season": "2024"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12545",
+          "name": "Tyler Shough",
+          "round": 3,
+          "slot": "6",
+          "season": "2025"
+        },
+        {
+          "id": "11630",
+          "name": "Roman Wilson",
+          "round": 2,
+          "slot": "10",
+          "season": "2024"
+        },
+        {
+          "id": "1479",
+          "name": "Keenan Allen"
+        }
+      ]
+    },
+    "amilipner": {
+      "additions": [
+        {
+          "id": "12545",
+          "name": "Tyler Shough",
+          "round": 3,
+          "slot": "6",
+          "season": "2025"
+        },
+        {
+          "id": "11630",
+          "name": "Roman Wilson",
+          "round": 2,
+          "slot": "10",
+          "season": "2024"
+        },
+        {
+          "id": "1479",
+          "name": "Keenan Allen"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11624",
+          "name": "Xavier Worthy",
+          "round": 2,
+          "slot": "1",
+          "season": "2024"
+        }
+      ]
+    }
+  },
+  {
+    "TheCoin33": {
+      "additions": [
+        {
+          "id": "7021",
+          "name": "Rico Dowdle"
+        },
+        {
+          "id": "9500",
+          "name": "Josh Downs"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11617",
+          "name": "Malachi Corley",
+          "round": 3,
+          "slot": "10",
+          "season": "2024"
+        },
+        {
+          "id": "9224",
+          "name": "Chase Brown"
+        }
+      ]
+    },
+    "amilipner": {
+      "additions": [
+        {
+          "id": "11617",
+          "name": "Malachi Corley",
+          "round": 3,
+          "slot": "10",
+          "season": "2024"
+        },
+        {
+          "id": "9224",
+          "name": "Chase Brown"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "7021",
+          "name": "Rico Dowdle"
+        },
+        {
+          "id": "9500",
+          "name": "Josh Downs"
+        }
+      ]
+    }
+  },
+  {
+    "amilipner": {
+      "additions": [
+        {
+          "id": "11624",
+          "name": "Xavier Worthy",
+          "round": 2,
+          "slot": "1",
+          "season": "2024"
+        },
+        {
+          "id": "11581",
+          "name": "MarShawn Lloyd",
+          "round": 3,
+          "slot": "1",
+          "season": "2024"
+        },
+        {
+          "id": "10236",
+          "name": "Dalton Kincaid"
+        },
+        {
+          "id": "7591",
+          "name": "Justin Fields"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11628",
+          "name": "Marvin Harrison",
+          "round": 1,
+          "slot": "2",
+          "season": "2024"
+        },
+        {
+          "id": "6845",
+          "name": "Zack Moss"
+        }
+      ]
+    },
+    "dsalem": {
+      "additions": [
+        {
+          "id": "11628",
+          "name": "Marvin Harrison",
+          "round": 1,
+          "slot": "2",
+          "season": "2024"
+        },
+        {
+          "id": "6845",
+          "name": "Zack Moss"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11624",
+          "name": "Xavier Worthy",
+          "round": 2,
+          "slot": "1",
+          "season": "2024"
+        },
+        {
+          "id": "11581",
+          "name": "MarShawn Lloyd",
+          "round": 3,
+          "slot": "1",
+          "season": "2024"
+        },
+        {
+          "id": "10236",
+          "name": "Dalton Kincaid"
+        },
+        {
+          "id": "7591",
+          "name": "Justin Fields"
+        }
+      ]
+    }
+  },
+  {
+    "LilDaveIII": {
+      "additions": [
+        {
+          "id": "12512",
+          "name": "Quinshon Judkins",
+          "round": 1,
+          "slot": "3",
+          "season": "2025"
+        },
+        {
+          "id": "4984",
+          "name": "Josh Allen"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "4046",
+          "name": "Patrick Mahomes"
+        }
+      ]
+    },
+    "paswordistaco22": {
+      "additions": [
+        {
+          "id": "4046",
+          "name": "Patrick Mahomes"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "12512",
+          "name": "Quinshon Judkins",
+          "round": 1,
+          "slot": "3",
+          "season": "2025"
+        },
+        {
+          "id": "4984",
+          "name": "Josh Allen"
+        }
+      ]
+    }
+  },
+  {
+    "LilDaveIII": {
+      "additions": [
+        {
+          "id": "9502",
+          "name": "Tank Dell"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11626",
+          "name": "Xavier Legette",
+          "round": 2,
+          "slot": "9",
+          "season": "2024"
+        },
+        {
+          "id": "6151",
+          "name": "Miles Sanders"
+        },
+        {
+          "id": "96",
+          "name": "Aaron Rodgers"
+        }
+      ]
+    },
+    "DavidtherockJohnson": {
+      "additions": [
+        {
+          "id": "11626",
+          "name": "Xavier Legette",
+          "round": 2,
+          "slot": "9",
+          "season": "2024"
+        },
+        {
+          "id": "6151",
+          "name": "Miles Sanders"
+        },
+        {
+          "id": "96",
+          "name": "Aaron Rodgers"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "9502",
+          "name": "Tank Dell"
+        }
+      ]
+    }
+  },
+  {
+    "LilDaveIII": {
+      "additions": [
+        {
+          "id": "11583",
+          "name": "Jonathon Brooks",
+          "round": 2,
+          "slot": "2",
+          "season": "2024"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "8119",
+          "name": "Jahan Dotson"
+        },
+        {
+          "id": "8132",
+          "name": "Tyler Allgeier"
+        }
+      ]
+    },
+    "DavidtherockJohnson": {
+      "additions": [
+        {
+          "id": "8119",
+          "name": "Jahan Dotson"
+        },
+        {
+          "id": "8132",
+          "name": "Tyler Allgeier"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11583",
+          "name": "Jonathon Brooks",
+          "round": 2,
+          "slot": "2",
+          "season": "2024"
+        }
+      ]
+    }
+  },
+  {
+    "paswordistaco22": {
+      "additions": [
+        {
+          "id": "8148",
+          "name": "Jameson Williams"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "4068",
+          "name": "Mike Williams"
+        }
+      ]
+    },
+    "DavidtherockJohnson": {
+      "additions": [
+        {
+          "id": "4068",
+          "name": "Mike Williams"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "8148",
+          "name": "Jameson Williams"
+        }
+      ]
+    }
+  },
+  {
+    "amilipner": {
+      "additions": [
+        {
+          "id": "11559",
+          "name": "Michael Penix",
+          "round": 2,
+          "slot": "8",
+          "season": "2024"
+        },
+        {
+          "id": "1373",
+          "name": "Geno Smith"
+        },
+        {
+          "id": "5850",
+          "name": "Josh Jacobs"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "2028",
+          "name": "Derek Carr"
+        },
+        {
+          "id": "4082",
+          "name": "Curtis Samuel"
+        },
+        {
+          "id": "6819",
+          "name": "Michael Pittman"
+        }
+      ]
+    },
+    "DavidtherockJohnson": {
+      "additions": [
+        {
+          "id": "2028",
+          "name": "Derek Carr"
+        },
+        {
+          "id": "4082",
+          "name": "Curtis Samuel"
+        },
+        {
+          "id": "6819",
+          "name": "Michael Pittman"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11559",
+          "name": "Michael Penix",
+          "round": 2,
+          "slot": "8",
+          "season": "2024"
+        },
+        {
+          "id": "1373",
+          "name": "Geno Smith"
+        },
+        {
+          "id": "5850",
+          "name": "Josh Jacobs"
+        }
+      ]
+    }
+  },
+  {
+    "LilDaveIII": {
+      "additions": [
+        {
+          "id": "11563",
+          "name": "Bo Nix",
+          "round": 2,
+          "slot": "6",
+          "season": "2024"
+        },
+        {
+          "id": "6803",
+          "name": "Brandon Aiyuk"
+        },
+        {
+          "id": "9753",
+          "name": "Zach Charbonnet"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11637",
+          "name": "Keon Coleman",
+          "round": 2,
+          "slot": "3",
+          "season": "2024"
+        },
+        {
+          "id": "11635",
+          "name": "Ladd McConkey",
+          "round": 1,
+          "slot": "10",
+          "season": "2024"
+        }
+      ]
+    },
+    "ZFox3": {
+      "additions": [
+        {
+          "id": "11637",
+          "name": "Keon Coleman",
+          "round": 2,
+          "slot": "3",
+          "season": "2024"
+        },
+        {
+          "id": "11635",
+          "name": "Ladd McConkey",
+          "round": 1,
+          "slot": "10",
+          "season": "2024"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11563",
+          "name": "Bo Nix",
+          "round": 2,
+          "slot": "6",
+          "season": "2024"
+        },
+        {
+          "id": "6803",
+          "name": "Brandon Aiyuk"
+        },
+        {
+          "id": "9753",
+          "name": "Zach Charbonnet"
+        }
+      ]
+    }
+  },
+  {
+    "paswordistaco22": {
+      "additions": [
+        {
+          "id": "6943",
+          "name": "Gabe Davis"
+        },
+        {
+          "id": "8205",
+          "name": "Isiah Pacheco"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "1426",
+          "name": "DeAndre Hopkins"
+        },
+        {
+          "id": "4199",
+          "name": "Aaron Jones"
+        }
+      ]
+    },
+    "DavidtherockJohnson": {
+      "additions": [
+        {
+          "id": "1426",
+          "name": "DeAndre Hopkins"
+        },
+        {
+          "id": "4199",
+          "name": "Aaron Jones"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "6943",
+          "name": "Gabe Davis"
+        },
+        {
+          "id": "8205",
+          "name": "Isiah Pacheco"
+        }
+      ]
+    }
+  },
+  {
+    "paswordistaco22": {
+      "additions": [
+        {
+          "id": "2133",
+          "name": "Davante Adams"
+        },
+        {
+          "id": "4199",
+          "name": "Aaron Jones"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11563",
+          "name": "Bo Nix",
+          "round": 2,
+          "slot": "6",
+          "season": "2024"
+        },
+        {
+          "id": "5967",
+          "name": "Tony Pollard"
+        },
+        {
+          "id": "9754",
+          "name": "Quentin Johnston"
+        }
+      ]
+    },
+    "ZFox3": {
+      "additions": [
+        {
+          "id": "11563",
+          "name": "Bo Nix",
+          "round": 2,
+          "slot": "6",
+          "season": "2024"
+        },
+        {
+          "id": "5967",
+          "name": "Tony Pollard"
+        },
+        {
+          "id": "9754",
+          "name": "Quentin Johnston"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "2133",
+          "name": "Davante Adams"
+        },
+        {
+          "id": "4199",
+          "name": "Aaron Jones"
+        }
+      ]
+    }
+  },
+  {
+    "LilDaveIII": {
+      "additions": [
+        {
+          "id": "11637",
+          "name": "Keon Coleman",
+          "round": 2,
+          "slot": "3",
+          "season": "2024"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "4950",
+          "name": "Christian Kirk"
+        }
+      ]
+    },
+    "Naj08": {
+      "additions": [
+        {
+          "id": "4950",
+          "name": "Christian Kirk"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11637",
+          "name": "Keon Coleman",
+          "round": 2,
+          "slot": "3",
+          "season": "2024"
+        }
+      ]
+    }
+  },
+  {
+    "LilDaveIII": {
+      "additions": [
+        {
+          "id": "11620",
+          "name": "Rome Odunze",
+          "round": 1,
+          "slot": "6",
+          "season": "2024"
+        },
+        {
+          "id": "6151",
+          "name": "Miles Sanders"
+        },
+        {
+          "id": "7526",
+          "name": "Jaylen Waddle"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "2749",
+          "name": "Raheem Mostert"
+        },
+        {
+          "id": "3321",
+          "name": "Tyreek Hill"
+        }
+      ]
+    },
+    "paswordistaco22": {
+      "additions": [
+        {
+          "id": "2749",
+          "name": "Raheem Mostert"
+        },
+        {
+          "id": "3321",
+          "name": "Tyreek Hill"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11620",
+          "name": "Rome Odunze",
+          "round": 1,
+          "slot": "6",
+          "season": "2024"
+        },
+        {
+          "id": "6151",
+          "name": "Miles Sanders"
+        },
+        {
+          "id": "7526",
+          "name": "Jaylen Waddle"
+        }
+      ]
+    }
+  },
+  {
+    "LilDaveIII": {
+      "additions": [
+        {
+          "id": "11635",
+          "name": "Ladd McConkey",
+          "round": 1,
+          "slot": "10",
+          "season": "2024"
+        },
+        {
+          "id": "12483",
+          "name": "Jack Bech",
+          "round": 2,
+          "slot": "9",
+          "season": "2025"
+        },
+        {
+          "id": "5859",
+          "name": "A.J. Brown"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11565",
+          "name": "J.J. McCarthy",
+          "round": 1,
+          "slot": "5",
+          "season": "2024"
+        },
+        {
+          "id": "12545",
+          "name": "Tyler Shough",
+          "round": 3,
+          "slot": "6",
+          "season": "2025"
+        },
+        {
+          "id": "7588",
+          "name": "Javonte Williams"
+        }
+      ]
+    },
+    "TheCoin33": {
+      "additions": [
+        {
+          "id": "11565",
+          "name": "J.J. McCarthy",
+          "round": 1,
+          "slot": "5",
+          "season": "2024"
+        },
+        {
+          "id": "12545",
+          "name": "Tyler Shough",
+          "round": 3,
+          "slot": "6",
+          "season": "2025"
+        },
+        {
+          "id": "7588",
+          "name": "Javonte Williams"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "11635",
+          "name": "Ladd McConkey",
+          "round": 1,
+          "slot": "10",
+          "season": "2024"
+        },
+        {
+          "id": "12483",
+          "name": "Jack Bech",
+          "round": 2,
+          "slot": "9",
+          "season": "2025"
+        },
+        {
+          "id": "5859",
+          "name": "A.J. Brown"
+        }
+      ]
+    }
+  },
+  {
+    "LilDaveIII": {
+      "additions": [
+        {
+          "id": "96",
+          "name": "Aaron Rodgers",
+          "round": 10,
+          "slot": "8",
+          "season": "2023"
+        },
+        {
+          "id": "3271",
+          "name": "Tyler Higbee",
+          "round": 20,
+          "slot": "8",
+          "season": "2023"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "4040",
+          "name": "JuJu Smith-Schuster",
+          "round": 13,
+          "slot": "1",
+          "season": "2023"
+        },
+        {
+          "id": "4029",
+          "name": "Dalvin Cook",
+          "round": 13,
+          "slot": "2",
+          "season": "2023"
+        }
+      ]
+    },
+    "DavidtherockJohnson": {
+      "additions": [
+        {
+          "id": "4040",
+          "name": "JuJu Smith-Schuster",
+          "round": 13,
+          "slot": "1",
+          "season": "2023"
+        },
+        {
+          "id": "4029",
+          "name": "Dalvin Cook",
+          "round": 13,
+          "slot": "2",
+          "season": "2023"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "96",
+          "name": "Aaron Rodgers",
+          "round": 10,
+          "slot": "8",
+          "season": "2023"
+        },
+        {
+          "id": "3271",
+          "name": "Tyler Higbee",
+          "round": 20,
+          "slot": "8",
+          "season": "2023"
+        }
+      ]
+    }
+  },
+  {
+    "LilDaveIII": {
+      "additions": [
+        {
+          "id": "4029",
+          "name": "Dalvin Cook",
+          "round": 13,
+          "slot": "2",
+          "season": "2023"
+        },
+        {
+          "id": "7588",
+          "name": "Javonte Williams",
+          "round": 7,
+          "slot": "2",
+          "season": "2023"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "5848",
+          "name": "Marquise Brown",
+          "round": 8,
+          "slot": "1",
+          "season": "2023"
+        },
+        {
+          "id": "6803",
+          "name": "Brandon Aiyuk",
+          "round": 9,
+          "slot": "1",
+          "season": "2023"
+        }
+      ]
+    },
+    "ZFox3": {
+      "additions": [
+        {
+          "id": "5848",
+          "name": "Marquise Brown",
+          "round": 8,
+          "slot": "1",
+          "season": "2023"
+        },
+        {
+          "id": "6803",
+          "name": "Brandon Aiyuk",
+          "round": 9,
+          "slot": "1",
+          "season": "2023"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "4029",
+          "name": "Dalvin Cook",
+          "round": 13,
+          "slot": "2",
+          "season": "2023"
+        },
+        {
+          "id": "7588",
+          "name": "Javonte Williams",
+          "round": 7,
+          "slot": "2",
+          "season": "2023"
+        }
+      ]
+    }
+  },
+  {
+    "TheCoin33": {
+      "additions": [
+        {
+          "id": "7547",
+          "name": "Amon-Ra St. Brown",
+          "round": 3,
+          "slot": "4",
+          "season": "2023"
+        },
+        {
+          "id": "5844",
+          "name": "T.J. Hockenson",
+          "round": 4,
+          "slot": "4",
+          "season": "2023"
+        },
+        {
+          "id": "8138",
+          "name": "James Cook",
+          "round": 7,
+          "slot": "4",
+          "season": "2023"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "4663",
+          "name": "Austin Ekeler",
+          "round": 3,
+          "slot": "5",
+          "season": "2023"
+        },
+        {
+          "id": "3294",
+          "name": "Dak Prescott",
+          "round": 4,
+          "slot": "5",
+          "season": "2023"
+        },
+        {
+          "id": "4981",
+          "name": "Calvin Ridley",
+          "round": 6,
+          "slot": "5",
+          "season": "2023"
+        }
+      ]
+    },
+    "avitzhaki": {
+      "additions": [
+        {
+          "id": "4663",
+          "name": "Austin Ekeler",
+          "round": 3,
+          "slot": "5",
+          "season": "2023"
+        },
+        {
+          "id": "3294",
+          "name": "Dak Prescott",
+          "round": 4,
+          "slot": "5",
+          "season": "2023"
+        },
+        {
+          "id": "4981",
+          "name": "Calvin Ridley",
+          "round": 6,
+          "slot": "5",
+          "season": "2023"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "7547",
+          "name": "Amon-Ra St. Brown",
+          "round": 3,
+          "slot": "4",
+          "season": "2023"
+        },
+        {
+          "id": "5844",
+          "name": "T.J. Hockenson",
+          "round": 4,
+          "slot": "4",
+          "season": "2023"
+        },
+        {
+          "id": "8138",
+          "name": "James Cook",
+          "round": 7,
+          "slot": "4",
+          "season": "2023"
+        }
+      ]
+    }
+  },
+  {
+    "paswordistaco22": {
+      "additions": [
+        {
+          "id": "4984",
+          "name": "Josh Allen",
+          "round": 1,
+          "slot": "2",
+          "season": "2023"
+        },
+        {
+          "id": "5892",
+          "name": "David Montgomery",
+          "round": 11,
+          "slot": "2",
+          "season": "2023"
+        },
+        {
+          "id": "7526",
+          "name": "Jaylen Waddle",
+          "round": 3,
+          "slot": "2",
+          "season": "2023"
+        },
+        {
+          "id": "5967",
+          "name": "Tony Pollard",
+          "round": 4,
+          "slot": "2",
+          "season": "2023"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "6797",
+          "name": "Justin Herbert",
+          "round": 1,
+          "slot": "7",
+          "season": "2023"
+        },
+        {
+          "id": "3163",
+          "name": "Jared Goff",
+          "round": 10,
+          "slot": "7",
+          "season": "2023"
+        },
+        {
+          "id": "4034",
+          "name": "Christian McCaffrey",
+          "round": 2,
+          "slot": "7",
+          "season": "2023"
+        },
+        {
+          "id": "2449",
+          "name": "Stefon Diggs",
+          "round": 3,
+          "slot": "7",
+          "season": "2023"
+        }
+      ]
+    },
+    "ZFox3": {
+      "additions": [
+        {
+          "id": "6797",
+          "name": "Justin Herbert",
+          "round": 1,
+          "slot": "7",
+          "season": "2023"
+        },
+        {
+          "id": "3163",
+          "name": "Jared Goff",
+          "round": 10,
+          "slot": "7",
+          "season": "2023"
+        },
+        {
+          "id": "4034",
+          "name": "Christian McCaffrey",
+          "round": 2,
+          "slot": "7",
+          "season": "2023"
+        },
+        {
+          "id": "2449",
+          "name": "Stefon Diggs",
+          "round": 3,
+          "slot": "7",
+          "season": "2023"
+        }
+      ],
+      "subtractions": [
+        {
+          "id": "4984",
+          "name": "Josh Allen",
+          "round": 1,
+          "slot": "2",
+          "season": "2023"
+        },
+        {
+          "id": "5892",
+          "name": "David Montgomery",
+          "round": 11,
+          "slot": "2",
+          "season": "2023"
+        },
+        {
+          "id": "7526",
+          "name": "Jaylen Waddle",
+          "round": 3,
+          "slot": "2",
+          "season": "2023"
+        },
+        {
+          "id": "5967",
+          "name": "Tony Pollard",
+          "round": 4,
+          "slot": "2",
+          "season": "2023"
+        }
+      ]
+    }
+  }
+]
