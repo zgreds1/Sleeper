@@ -21,14 +21,14 @@ def main():
         with open(input_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
 
-        # Write to web/data.js
-        os.makedirs('web', exist_ok=True)
-        with open('web/data.js', 'w', encoding='utf-8') as f:
+        # Write to docs/data.js
+        os.makedirs('docs', exist_ok=True)
+        with open('docs/data.js', 'w', encoding='utf-8') as f:
             f.write('const TRADES_DATA = ')
             json.dump(data, f, indent=2)
             f.write(';')
         
-        print(f"Successfully created web/data.js from {input_path}")
+        print(f"Successfully created docs/data.js from {input_path}")
 
     except json.JSONDecodeError:
         print(f"Error: '{input_path}' is not a valid JSON file.")
