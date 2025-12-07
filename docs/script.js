@@ -2,6 +2,19 @@ document.addEventListener('DOMContentLoaded', () => {
     const teamSelector = document.getElementById('team-selector');
     const tradesContainer = document.getElementById('trades-container');
 
+    // Add sorting controls
+    const controlsDiv = document.querySelector('.controls');
+    const sortSelect = document.createElement('select');
+    sortSelect.id = 'sort-selector';
+    sortSelect.innerHTML = `
+        <option value="date-desc">Date (Newest)</option>
+        <option value="date-asc">Date (Oldest)</option>
+        <option value="value-desc">Net Value (High to Low)</option>
+        <option value="value-asc">Net Value (Low to High)</option>
+    `;
+    sortSelect.style.marginLeft = '1rem';
+    controlsDiv.appendChild(sortSelect);
+
     // 1. Extract unique teams
     const teams = new Set();
     TRADES_DATA.forEach(trade => {
@@ -22,12 +35,13 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // 3. Handle selection
-    teamSelector.addEventListener('change', (e) => {
-        const selectedTeam = e.target.value;
-        renderTrades(selectedTeam);
-    });
+    teamSelector.addEventListener('change', () => renderTrades());
+    sortSelect.addEventListener('change', () => renderTrades());
 
-    function renderTrades(team) {
+    function renderTrades() {
+        const team = teamSelector.value;
+        const sortMode = sortSelect.value;
+
         tradesContainer.innerHTML = '';
 
         if (!team) {
@@ -39,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        const teamTrades = TRADES_DATA.filter(trade => Object.prototype.hasOwnProperty.call(trade, team));
+        let teamTrades = TRADES_DATA.filter(trade => Object.prototype.hasOwnProperty.call(trade, team));
 
         if (teamTrades.length === 0) {
             tradesContainer.innerHTML = `
@@ -50,13 +64,35 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        // Sort trades by date (newest first) if time_created exists
-        teamTrades.sort((a, b) => (b.time_created || 0) - (a.time_created || 0));
+        // Sorting Logic
+        teamTrades.sort((a, b) => {
+            if (sortMode === 'date-desc') {
+                return (b.time_created || 0) - (a.time_created || 0);
+            } else if (sortMode === 'date-asc') {
+                return (a.time_created || 0) - (b.time_created || 0);
+            } else {
+                // Calculate net value for sorting
+                const netA = calculateNetValue(a, team);
+                const netB = calculateNetValue(b, team);
+                if (sortMode === 'value-desc') {
+                    return netB - netA;
+                } else {
+                    return netA - netB;
+                }
+            }
+        });
 
         teamTrades.forEach(trade => {
             const card = createTradeCard(trade, team);
             tradesContainer.appendChild(card);
         });
+    }
+
+    function calculateNetValue(trade, myTeam) {
+        const mySide = trade[myTeam];
+        const receivedValue = (mySide.additions || []).reduce((sum, asset) => sum + (asset.value || 0), 0);
+        const sentValue = (mySide.subtractions || []).reduce((sum, asset) => sum + (asset.value || 0), 0);
+        return receivedValue - sentValue;
     }
 
     function createTradeCard(trade, myTeam) {
@@ -65,6 +101,21 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const card = document.createElement('div');
         card.className = 'trade-card';
+
+        // Calculate Values
+        const receivedValue = (mySide.additions || []).reduce((sum, asset) => sum + (asset.value || 0), 0);
+        const sentValue = (mySide.subtractions || []).reduce((sum, asset) => sum + (asset.value || 0), 0);
+        const netValue = receivedValue - sentValue;
+
+        // Net Value Display
+        let netValueClass = 'neutral';
+        let netValueSign = '';
+        if (netValue > 0) {
+            netValueClass = 'positive';
+            netValueSign = '+';
+        } else if (netValue < 0) {
+            netValueClass = 'negative';
+        }
 
         // Date formatting
         let dateHtml = '';
@@ -82,10 +133,15 @@ document.addEventListener('DOMContentLoaded', () => {
         const partnersText = partners.join(', ');
 
         card.innerHTML = `
-            ${dateHtml}
+            <div class="trade-header">
+                ${dateHtml}
+                <div class="net-value ${netValueClass}">
+                    Net: ${netValueSign}${netValue.toLocaleString()}
+                </div>
+            </div>
             <div class="trade-content">
                 <div class="trade-side">
-                    <h3>Received</h3>
+                    <h3>Received <span class="side-value">(${receivedValue.toLocaleString()})</span></h3>
                     ${receivedHtml}
                 </div>
                 <div class="trade-arrow">
@@ -93,7 +149,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div style="font-size: 0.75rem; margin-top: 0.5rem;">vs ${partnersText}</div>
                 </div>
                 <div class="trade-side">
-                    <h3>Sent</h3>
+                    <h3>Sent <span class="side-value">(${sentValue.toLocaleString()})</span></h3>
                     ${sentHtml}
                 </div>
             </div>
@@ -125,36 +181,23 @@ document.addEventListener('DOMContentLoaded', () => {
                 // Check if player was originally a draft pick
                 if (asset.season && asset.round && asset.slot) {
                     const slot = asset.slot.toString().padStart(2, '0');
-                    text += ` (${asset.season} ${asset.round}.${slot})`;
+                    text += ` <span class="asset-meta">(${asset.season} ${asset.round}.${slot})</span>`;
                 }
             } else {
                 // Pick
-                // Format: 2028 2nd round pick
-                // Or if slot is present? The user example for pure pick was:
-                // { "id": "", "round": 2, "slot": "", "season": "2028" } -> 2028 2nd round pick
-
                 const roundText = getOrdinal(asset.round);
                 text = `${asset.season} ${roundText} round pick`;
-
-                if (asset.slot) {
-                    // If slot is present in a pure pick, maybe show it? 
-                    // User didn't specify, but usually picks with slots are specific.
-                    // Let's stick to the requested format for general picks, 
-                    // but if slot exists, maybe append it? 
-                    // "2025 4.10" style is for players. 
-                    // Let's just use the requested format "2028 2nd round pick" for now.
-                    // If slot is there, maybe "2025 4th round pick (4.10)"?
-                    // Let's keep it simple as requested: "2028 2nd round pick"
-                    // But wait, if it has a slot, it's a specific pick.
-                    // The user example for player was "Dillon Gabriel (2025 4.10)".
-                    // The user example for pick was "2028 2nd round pick".
-                    // I will stick to "Season Round-ordinal round pick".
-                }
-
                 className += ' asset-pick';
             }
 
-            return `<li class="${className}">${text}</li>`;
+            // Value Badge
+            const value = asset.value || 0;
+            const valueHtml = `<span class="asset-value">${value.toLocaleString()}</span>`;
+
+            return `<li class="${className}">
+                <span class="asset-name">${text}</span>
+                ${valueHtml}
+            </li>`;
         }).join('');
 
         return `<ul class="asset-list">${items}</ul>`;
